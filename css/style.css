@@ -1,0 +1,350 @@
+*{
+	margin:0px;
+	padding: 0px;
+
+	}
+body{
+
+		font-family: 'Roboto', sans-serif;
+
+	}
+
+header { width: 100%;
+	
+	float: left;
+	background-color: black;
+	height: 100px;
+
+
+
+}
+.Container {
+	width: 1140px;
+	margin:0 auto;
+	
+
+}
+.logo {
+	width: 20%;
+	float: left;
+
+}
+.logo img {
+    margin-top: -16px;
+    margin-left: 38px;
+    width: 69%;
+}
+
+.menu {
+width: 50%;
+	float: left;
+
+}
+.menu ul {
+    padding: 0px;
+}
+
+.menu ul li {
+
+margin: 35px 31px;
+
+font-size: 22px;
+
+list-style: none;
+
+display: inline-block;
+}
+
+.menu ul li a {
+
+text-decoration: none;
+
+background-color: #c1b6b6fc;
+}
+
+.icon {
+width: 30%;
+	float: left;
+}
+
+.icon ul {
+
+padding: 35px;
+}
+
+.icon ul li {
+
+font-size: 26px;
+
+margin: 0px;
+
+display: inline-block;
+
+list-style: none;
+}
+
+.icon ul li a {
+
+text-decoration: none;
+
+color: blue;
+
+padding: 5px 3px;
+
+margin: 2px 2px;
+
+background-color: #beb3b3;
+}
+
+.banner { background-image:url(../img/banner.jpg);
+
+background-size: cover;
+		width: 100%;
+		float: left;
+	}
+}
+
+.container-tow {
+	width: 1140px;
+	margin: 0 auto;
+
+}
+
+.bimg { height: 500px;
+		
+		background-size: cover;
+
+
+}
+
+.b-left {background-color: #000000a6;
+	margin: 45px 19px;
+	padding: 90px 100px;
+	float: left;
+	font-size: 32px;text-align: center;
+	color: #6f69f6;}
+
+.btnn {     margin: 22px 74px;
+    padding: 17px 10px;
+    font-size: 17px;
+    background-color: black;
+    color: #beb3b3;
+    cursor: pointer;
+}
+
+
+.sec-tow {
+	width: 100%;
+	float: left;
+
+}
+
+.container {
+width: 1140px;
+margin: 0 auto;
+
+
+}
+.service-one {
+	
+    float: left;
+    width: 25%;
+    height: 300px;
+    display: inline-block;
+    background-color: #e3e3e3;
+}
+.fa.fa-check {
+    text-align: center;
+    margin: 44px 39px 14px 71px;
+    font-size: 68px;
+    border-radius: 30px;
+    padding: 14px 34px;
+    color: #6f69f6;
+    background-color: #515151;
+}
+
+.service-one h2{text-align: center;
+    font-size: 37px;
+
+}
+.service-one p {
+
+text-align: center;
+
+font-size: 22px;
+}
+
+.service-tow {
+	
+float: left;
+	
+width: 25%;
+	
+height: 300px;
+	
+display: inline-block;
+	
+background-color: #c4d9c6;
+}
+.fa.fa-map-marker {
+    text-align: center;
+    margin: 44px 39px 14px 71px;
+    font-size: 68px;
+    border-radius: 30px;
+    padding: 14px 34px;
+    color: #6f69f6;
+    background-color: #515151;
+}
+
+.service-tow h2{text-align: center;
+    font-size: 37px;
+
+}
+.service-tow p {
+
+text-align: center;
+
+font-size: 22px;
+}
+
+.service-three {
+	
+float: left;
+	
+width: 25%;
+	
+height: 300px;
+	
+display: inline-block;
+	
+background-color: #c8c1bf;
+}
+.fa.fa-money {
+    text-align: center;
+    margin: 44px 39px 14px 71px;
+    font-size: 68px;
+    border-radius: 30px;
+    padding: 14px 34px;
+    color: #6f69f6;
+    background-color: #515151;
+}
+
+.service-three h2{text-align: center;
+    font-size: 37px;
+
+}
+.service-three p {
+
+text-align: center;
+
+font-size: 22px;
+}
+
+.service-four {
+	
+float: left;
+	
+width: 25%;
+	
+height: 300px;
+	
+display: inline-block;
+	
+background-color: #e3e3e3;
+}
+.fa.fa-user-plus {
+    text-align: center;
+    margin: 44px 39px 14px 71px;
+    font-size: 68px;
+    border-radius: 30px;
+    padding: 14px 34px;
+    color: #6f69f6;
+    background-color: #515151;
+}
+
+.service-four h2{text-align: center;
+    font-size: 37px;
+
+}
+.service-four p {
+
+text-align: center;
+
+font-size: 22px;
+}
+.about-btn {
+
+	 margin: -11px 77px;
+    padding: 0px 23px;
+    font-size: 17px;
+    background-color: #444c45;
+    color: #ffffff;
+    cursor: pointer;
+}
+.sec-three {
+	width: 100%;
+	float: left;
+
+
+}
+
+.container-three{
+	width: 1140px;
+margin: 0 auto;
+
+
+}
+
+.c-sec-one {
+ width: 50%;
+	float: left;
+
+}
+.c-sec-one h2 {
+
+text-align: center;
+
+font-size: xx-large;
+}
+.c-sec-one p {
+
+text-align: center;
+
+font-size: 18px;
+}
+
+.c-sec-tow {
+width: 50%;
+	float: left;
+}
+
+.c-sec-tow h2 { text-align: center;
+
+font-size: xx-large;
+
+
+}
+
+.c-sec-tow p { text-align: center;
+
+font-size: 18px;
+
+
+}
+
+
+.btn-a {
+        margin: 9px 223px;
+    padding: 12px 14px;
+    font-size: 20px;
+    background-color: #e4e4e4;
+    color: #515151;
+    cursor: pointer;
+
+}
+.color {
+
+	    background-color: #faddf1;
+    margin: 30px 2px;
+    padding: 17px 0px;
+}
